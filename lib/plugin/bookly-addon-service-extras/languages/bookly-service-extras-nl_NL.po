@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookly Service Extras (Add-on) v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-18 15:57+0300\n"
+"PO-Revision-Date: 2016-07-25 14:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1,2t;_e:1,2t;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lib/Actions.php:67
+msgid "Service Extras"
+msgstr "Dienst extras"
+
+#: ../lib/Actions.php:79
+msgid "name of category"
+msgstr "categorienaam"
+
+#: ../lib/Actions.php:80
+msgid "number of persons"
+msgstr "aantal personen"
+
+#: ../lib/Actions.php:81
+msgid "info of service"
+msgstr "info van de dienst"
+
+#: ../lib/Actions.php:82
+msgid "name of service"
+msgstr "naam van dienst"
+
+#: ../lib/Actions.php:83
+msgid "price of service"
+msgstr "prijs van dienst"
+
+#: ../lib/Actions.php:84
+msgid "info of staff"
+msgstr "info van het personeel"
+
+#: ../lib/Actions.php:85
+msgid "name of staff"
+msgstr "naam van medewerker"
+
+#: ../lib/Actions.php:86
+msgid "total price of booking"
+msgstr "totale prijs van de reservering"
+
+#: ../lib/Actions.php:101
+msgid "extras titles"
+msgstr "titels van extras"
+
+#: ../lib/Actions.php:102
+msgid "extras total price"
+msgstr "totale prijs van de extra's"
+
+#: ../lib/Filters.php:167
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: ../lib/Installer.php:23 ../templates/backend/settings_form.php:6
+msgid "Extras"
+msgstr "Extras"
+
+#: ../lib/Installer.php:24
+msgid "Select the Extras you'd like (Multiple Selection)"
+msgstr "Selecteer de extra's die u wilt (Meervoudige selectie)"
+
+#: ../lib/entities/ServiceExtra.php:34
+msgid "Untitled"
+msgstr "Geen titel"
+
+#: ../templates/2_extras.php:48
+msgid "No Extras."
+msgstr "Geen extra's"
+
+#: ../templates/2_extras.php:52 ../templates/backend/appearance_tab.php:36
+#: ../templates/backend/settings_form.php:12
+msgid "Summary"
+msgstr "Overzicht"
+
+#: ../templates/backend/new_extra.php:10
+msgid "Reorder"
+msgstr "Herschikken"
+
+#: ../templates/backend/new_extra.php:21 ../templates/backend/new_extra.php:66
+msgid "Delete"
+msgstr "Verwijder"
+
+#: ../templates/backend/new_extra.php:27
+#: ../templates/backend/settings_form.php:12
+msgid "Image"
+msgstr "Afbeelding"
+
+#: ../templates/backend/new_extra.php:39
+#: ../templates/backend/settings_form.php:12
+msgid "Title"
+msgstr "Titel"
+
+#: ../templates/backend/new_extra.php:46
+#: ../templates/backend/settings_form.php:12
+msgid "Duration"
+msgstr "Duur"
+
+#: ../templates/backend/new_extra.php:48
+msgid "OFF"
+msgstr "UIT"
+
+#: ../templates/backend/new_extra.php:57
+#: ../templates/backend/settings_form.php:12
+msgid "Price"
+msgstr "Tarief"
+
+#: ../templates/backend/settings_form.php:7
+msgid ""
+"This setting enables or disables the Extras step of booking. You can choose "
+"what information should be displayed to your clients by using the checkboxes "
+"below."
+msgstr ""
+"Met deze instelling schakelt het Extra stap van de boeking. U kunt kiezen "
+"welke informatie aan uw klanten moet worden weergegeven met behulp van de "
+"onderstaande vakjes."
+
+#: ../templates/backend/settings_form.php:11
+msgid "Show"
+msgstr "Tonen"
